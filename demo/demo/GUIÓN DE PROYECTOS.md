@@ -74,11 +74,4 @@ Spring Boot Starter Data JPA
 H2 Database (dev)
 Spring Boot Starter Validation
 Lombok
-IDE recomendado: IntelliJ IDEA Community (gratuito) o Spring Tool Suite.
-
-✅ Por dónde empezar HOY
-
-Instala IntelliJ IDEA Community + JDK 17
-Ve a start.spring.io → genera proyecto con Spring Web + Lombok
-Importa en IntelliJ y arranca el Proyecto 1
-Instala Postman y prueba tus endpoints
+VS CODE
